@@ -1,0 +1,38 @@
+[
+  {
+    "id": "wish-1791334661493",
+    "author": "Snowflake Buddy",
+    "relation": "Friend",
+    "message": "Wishing Princess Minni the happiest birthday ever! May your day be full of magic, sparkle and infinite happiness! Wishing Princess Minni the happiest birthday ever! May your day be full of magic, sparkle and infinite happiness!",
+    "icon": "👑",
+    "likes": 1,
+    "createdAt": "2026-10-07T00:57:41.493Z"
+  },
+  {
+    "id": "wish-1",
+    "author": "Special Heart ❤️",
+    "relation": "Forever Admirer",
+    "message": "Happy Birthday Minni! In this grand frozen universe, your warm smile is the brightest northern light that never fades. Anuvanuvuu prema tho... May every snowflake bring endless joy into your life!",
+    "icon": "❄️",
+    "likes": 12,
+    "createdAt": "2026-10-07T00:51:45.136Z"
+  },
+  {
+    "id": "wish-2",
+    "author": "Olaf’s Warm Hugs ⛄",
+    "relation": "Friend",
+    "message": "Some people are worth melting for! Wishing the dearest Minni an enchanting birthday filled with laughter, magic, and boundless love!",
+    "icon": "⛄",
+    "likes": 8,
+    "createdAt": "2026-10-07T00:51:45.137Z"
+  },
+  {
+    "id": "wish-3",
+    "author": "The Royal Court 👑",
+    "relation": "Well-Wisher",
+    "message": "Hail to Queen Minni on her special day! May your year ahead be as majestic and sparkling as an ice palace under the northern lights!",
+    "icon": "👑",
+    "likes": 15,
+    "createdAt": "2026-10-07T00:51:45.137Z"
+  }
+]
