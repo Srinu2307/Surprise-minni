@@ -20,8 +20,7 @@ const originalMp3Name = "ytmp3free.cc_anuvanuvuu-video-lyrics-om-bheem-bush-sree
 const candidateAudioPaths = [
   path.join(rootDir, originalMp3Name),
   path.join(rootDir, 'audio.mp3'),
-  path.join(rootDir, 'client', 'public', 'audio.mp3'),
-  path.join(rootDir, "Anuvanuvuu Full Karaoke  Om Bheem Bush Songs Arijit Singh  Harsha Konuganti  Sunny M.R..m4a")
+  path.join(rootDir, 'client', 'public', 'audio.mp3')
 ];
 const audioFilePath = candidateAudioPaths.find((p) => fs.existsSync(p)) || candidateAudioPaths[0];
 const audioFileName = path.basename(audioFilePath);

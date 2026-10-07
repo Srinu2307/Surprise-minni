@@ -36,7 +36,6 @@ COPY server/ ./server/
 # Copy audio and media assets
 COPY audio.mp3 ./
 COPY ytmp3free.cc_anuvanuvuu-video-lyrics-om-bheem-bush-sree-vishnu-arijit-singh-harsha-konuganti-sunny-mr-youtubemp3free.org.mp3 ./
-COPY ["Anuvanuvuu Full Karaoke  Om Bheem Bush Songs Arijit Singh  Harsha Konuganti  Sunny M.R..m4a", "./"]
 COPY ["minni pics/", "./minni pics/"]
 
 # Copy built frontend assets from client-builder stage
